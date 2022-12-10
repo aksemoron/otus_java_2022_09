@@ -6,7 +6,7 @@ sourceCompatibility = JavaVersion.VERSION_17
 targetCompatibility = JavaVersion.VERSION_17
 
 dependencies {
-    api 'com.google.guava:guava' // случай 1
+    api 'com.google.guava:guava' // случай 1  внутренние библиотеки будет доступны
     // implementation 'com.google.guava:guava' //случай 2
 }
 
