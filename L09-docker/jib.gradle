@@ -1,4 +1,4 @@
-jib {
+/*jib {
     container.creationTime = 'USE_CURRENT_TIMESTAMP'
     from {
         image = 'bellsoft/liberica-openjdk-alpine-musl:17.0.2-9'
@@ -11,7 +11,7 @@ jib {
             password = gitlabPassword ?: ""
         }
     }
-}
+}*/
 /*
 аутентификация:
 

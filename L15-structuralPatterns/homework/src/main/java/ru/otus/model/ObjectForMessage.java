@@ -12,4 +12,11 @@ public class ObjectForMessage {
     public void setData(List<String> data) {
         this.data = data;
     }
+
+    public ObjectForMessage() {
+    }
+
+    public ObjectForMessage(List<String> data) {
+        this.data = data;
+    }
 }
